@@ -1,0 +1,8 @@
+backend/dev.db
+backend/.env
+backend/.env.local
+backend/*.db
+backend/dev.db-journal
+.env
+.env.local
+.DS_Store
