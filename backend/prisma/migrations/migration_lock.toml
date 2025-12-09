@@ -1,2 +1,1 @@
-# Generated manually after switching to PostgreSQL
 provider = "postgresql"
